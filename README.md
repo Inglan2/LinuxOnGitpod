@@ -5,7 +5,7 @@ Source: 3kh0/GamingOnCodespaces
 
 Sign up to [The Hub (GitHub)](https://github.com/signup)
 
-To use, [click here](https://gitpod.io/#https://github.com/Inglan2/LinuxOnGitpod), continue with the hub, then press continue. Wait...
+To use, [click here](https://gitpod.io/?autostart=true#https://github.com/Inglan2/LinuxOnGitpod), continue with the hub, then press continue. Wait...
 
 When you see this:
 
